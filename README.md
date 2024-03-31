@@ -1,4 +1,4 @@
-# PRODIGY_CS_05
+# PRODIGY_CS_05 Network Packet Analyzer
 
 A network packet analyzer, often referred to as a packet sniffer or packet analyzer tool, is a software or hardware tool used to capture, analyze, and interpret network traffic. These tools are essential for network administrators, security professionals, and developers to understand and troubleshoot network communications, as well as to detect and prevent security threats.
 
